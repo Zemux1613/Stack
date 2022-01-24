@@ -1,15 +1,14 @@
 # Stack
 
-It's kinda logic that an array is be nice to store data with. But to handle an array exists different ways. One of the ways are the abstraition "Stack". 
-
+It's kinda logic that an array is nice to store data with. But there are different ways for handling an array. One of the options is the abstraction "Stack". 
 ## Summary
 
 1. [Introduction](#Introduction)
 2. [Contributing](#Contributing)
 ## Introduction
 
-The Stack have basically two functionalities. You can push something to the "Stack" and you can pop the last element from the "Stack". Least but not last were it called "Stack", so you can imagine its like a stack of wood. In this abstraition you can only push at the top of the "Stack". The other way round you only have the chance to remove the item at the top if you dosn't want destroy your stack. That made sense if you imagine your storage on your pc who's organiced in cells. Your Stack is an fixed range of cells into this storage. A "Stack" is kinda stupid data structure because he need an counter who know the current last element index of the "Stack". Thats really important to know because it's not relevant for the "Stack" that a cell is empthy to use them for new pushes. Its only important that the counter point to a cell in the fixed range of the "Stack" so that counter+1 the new index of the to push element is.
+Basically, the Stack has two functionalities. You can push something to the "Stack" and you can pop the last element from the "Stack". So you can imagine its like a stack/pile of wood. In this abstraction you can only push on top of the "Stack/Pile". Otherwise, you only have the chance to remove the item at the top if you don't want to destroy your stack/pile. That makes sense if you remember that your storage on your pc is organiced in cells. Your Stack is a fixed range of cells inside this storage. The "Stack" is some kinda stupid data structure because he needs a (Stack-)counter which knows the current last index of the "Stack". That is really important to know because it's not relevant for the "Stack" that a cell is empty to use it for new pushes. It is only important that the counter points to a cell in the fixed range of the "Stack" so that counter +1 is the new index of the to-push element.
 
 ## Contributing
 
-Creating a pull request is be great for all interessted people. So be great and make a pull request to this repository!
+Creating a pull request is great for all interested people. So be nice and make a pull request to this repository!
