@@ -4,7 +4,7 @@ It's kinda logic that an array is be nice to store data with. But to handle an a
 
 ## Summary
 
-1. [Introduction](Introduction)
+1. [Introduction](#Introduction)
 
 ## Introduction
 
